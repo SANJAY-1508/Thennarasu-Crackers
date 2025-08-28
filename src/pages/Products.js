@@ -40,11 +40,11 @@ const Products = () => {
   return (
     <>
       <MetaTags
-        title="Crackers Price List | Solai Crackers | Best Crackers Shops"
+        title="Crackers Price List | Thennarasu Crackers | Best Crackers Shops"
         type="website"
-        siteName="solaicrackers.com"
-        url="https://solaicrackers.com.com/products"
-        keywords="Wholesale Crackers | Solai Crackers | Retails Crackers | Including sparklers, rockets, and more | Celebrate Diwali with affordable and exciting crackers"
+        siteName="thennarasucrackers.com"
+        url="https://thennarasucrackers.com.com/products"
+        keywords="Wholesale Crackers | Thennarasu Crackers | Retails Crackers | Including sparklers, rockets, and more | Celebrate Diwali with affordable and exciting crackers"
         description="Find the best deals on a wide variety of fireworks"
         revisitAfter="10 Days"
       />

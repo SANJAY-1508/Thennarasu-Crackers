@@ -26,7 +26,10 @@ const Footer = () => {
         </div>
       )}
       <div className="fixed point">
-        <WhatsAppButton name="Hi Solai Crackers" phoneNumber="+91 6380258837" />
+        <WhatsAppButton
+          name="Hi Thennarasu Crackers"
+          phoneNumber="+91 6380258837"
+        />
       </div>
       <a href="https://share.google/ij5I9EZMlczyginKS">
         <div className="fixed point3" style={{ cursor: "pointer" }}>
@@ -127,7 +130,7 @@ const Footer = () => {
                     Email:
                     <br />
                   </span>
-                  <span>solaicrackers@gmail.com</span>
+                  <span>thennarasucrackers@gmail.com</span>
                 </div>
               </Col>
 
@@ -175,7 +178,7 @@ const Footer = () => {
                 <Col lg="12" className="py-3">
                   <div className="text-center regular blue">
                     {" "}
-                    Copyright © 2025, Solai Crackers. All rights reserved{" "}
+                    Copyright © 2025, Thennarasu Crackers. All rights reserved{" "}
                   </div>
                 </Col>
               </Row>

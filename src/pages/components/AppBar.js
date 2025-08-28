@@ -618,7 +618,7 @@ const AppBarThree = () => {
                   <Navbar.Brand href="/">
                     <div className="logo company-name-head  mt-3">
                       <h2 className="logo-head-ft">
-                        SOLAI CRACKERS
+                        THENNARASU CRACKERS
                         <br />
                       </h2>
                       <hr className="logo-head-ul" />

@@ -10,11 +10,11 @@ const ContactUs = () => {
   return (
     <div className="overflow-hidden">
       <MetaTags
-        title="Contact Us - Solai crackers - Whole sale Crackers"
+        title="Contact Us - Thennarasu crackers - Whole sale Crackers"
         type="website"
-        siteName="solaicrackers.com"
-        url="https://solaicrackers.com/contactus"
-        keywords="Contact Us | Solai Crackers  "
+        siteName="thennarasucrackers.com"
+        url="https://thennarasucrackers.com/contactus"
+        keywords="Contact Us | Thennarasu Crackers  "
         description="Contact for wholesale Crackers and Retail Crackers"
         revisitAfter="10 Days"
       />
@@ -57,7 +57,7 @@ const ContactUs = () => {
                 <MdOutlineAlternateEmail size={40} color={"#000"} />
               </div>
               <div className="pb-4">
-                <div>solaicrackers@gmail.com</div>
+                <div>thennarasucrackers@gmail.com</div>
               </div>
             </div>
           </Col>
@@ -69,7 +69,7 @@ const ContactUs = () => {
                 height="600"
                 style={{ border: 0 }}
                 allowFullScreen
-                title="Google Maps Embed of Solai Crackers, Tamil Nadu"
+                title="Google Maps Embed of Thennarasu Crackers, Tamil Nadu"
               ></iframe>
             </>
           </Col>
