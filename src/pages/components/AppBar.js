@@ -35,7 +35,7 @@ const AppBar = () => {
                       />
                     </div>
                     <div className="text-white">
-                      <h5 className="bold mt-2 mx-2">9751501601</h5>
+                      <h5 className="bold mt-2 mx-2">8610409973</h5>
                     </div>
                   </div>
                 </Col>
@@ -46,9 +46,9 @@ const AppBar = () => {
                     speed={50}
                     delay={9}
                   >
-                    | Whatsapp : +91 97515 01601 | Mobile No : +91 63741 48142 |
-                    Phone No : +91 82485 41378 | Email :
-                    mayilvelcrackers@gmail.com
+                    | Whatsapp : +91 63812 88110 | Mobile No : +91 86104 09973 |
+                    Phone No : +91 63812 88110 | Email :
+                    thennarasucrackers@gmail.com
                   </Marquee>
                 </Col>
               </Row>
@@ -58,7 +58,7 @@ const AppBar = () => {
             <Container fluid>
               <Row>
                 <Col xs="4" sm="4">
-                  <a href="https://wa.me/919751501601?text=Hello mayilvelcrackers">
+                  <a href="https://wa.me/918610409973?text=Hello thennarasucrackers">
                     <div className="mob-icon mx-auto">
                       <img
                         src={require("../../assets/images/whatsappicon.webp")}
@@ -69,7 +69,7 @@ const AppBar = () => {
                   </a>
                 </Col>
                 <Col xs="4" sm="4">
-                  <a href="tel:+919751501601">
+                  <a href="tel:+916381288110">
                     <div className="mob-icon mx-auto">
                       <img
                         src={require("../../assets/images/callicon.webp")}
@@ -201,7 +201,7 @@ const AppBarTwo = () => {
                       />
                     </div>
                     <div className="text-white">
-                      <h5 className="bold mt-2 mx-2">8110807330</h5>
+                      <h5 className="bold mt-2 mx-2">8610409973</h5>
                     </div>
                   </div>
                 </Col>
@@ -212,9 +212,9 @@ const AppBarTwo = () => {
                     speed={50}
                     delay={9}
                   >
-                    Whatsapp : +91 81108 07330 | Alter No : +91 93421 73125 |
-                    Alter No : +91 70105 00491 | Email :
-                    Jaslakshmicrackers@gmail.com
+                    Whatsapp : +91 86104 09973 | Alter No : +91 63812 88110 |
+                    Alter No : +91 86104 09973 | Email :
+                    thennarasucrackers@gmail.com
                   </Marquee>
                 </Col>
               </Row>
@@ -224,7 +224,7 @@ const AppBarTwo = () => {
             <Container fluid>
               <Row>
                 <Col xs="4" sm="4">
-                  <a href="https://wa.me/918110807330?text=Hello Jaslakshmi Crackers">
+                  <a href="https://wa.me/918610409973?text=Hello Thennarasu Crackers">
                     <div className="mob-icon mx-auto">
                       <img
                         src={require("../../assets/images/whatsappicon.webp")}
@@ -235,7 +235,7 @@ const AppBarTwo = () => {
                   </a>
                 </Col>
                 <Col xs="4" sm="4">
-                  <a href="tel:+918110807330">
+                  <a href="tel:+916381288110">
                     <div className="mob-icon mx-auto">
                       <img
                         src={require("../../assets/images/callicon.webp")}
@@ -285,8 +285,7 @@ const AppBarTwo = () => {
                     <h5 className="bold text-white"> Address</h5>
                     <p className="regular text-white">
                       {" "}
-                      Sattur to Thayilpatti Road, <br />
-                      THAYILPATTI
+                      2/628/A,Mettamalai,Sattur
                     </p>
                   </div>
                 </div>
@@ -299,9 +298,8 @@ const AppBarTwo = () => {
                   <div class>
                     <h5 className="bold text-white"> Mobile Number</h5>
                     <div className="regular text-white">
-                      <li>+91 8110807330</li>
-                      <li>+91 9342173125</li>
-                      <li>+91 7010500491</li>
+                      <li>+91 8610409973</li>
+                      <li>+91 6381288110</li>
                     </div>
                   </div>
                 </div>
@@ -428,7 +426,7 @@ const AppBarThree = () => {
                       </Modal>
                     </>
                     <div className="text-black d-lg-block d-none ">
-                      <h5 className="bold mt-2 mx-2">6380258837,9842131905</h5>
+                      <h5 className="bold mt-2 mx-2">8610409973,6381288110</h5>
                     </div>
                   </div>
                 </Col>
@@ -440,7 +438,7 @@ const AppBarThree = () => {
                     delay={9}
                   >
                     🎉 80% discount all type of crakers availble in retail and
-                    wholesale( 6380258837,9842131905)
+                    wholesale( 8610409973,6381288110)
                   </Marquee>
                 </Col>
               </Row>
@@ -472,7 +470,7 @@ const AppBarThree = () => {
                   delay={9}
                 >
                   🎉 80% discount all type of crakers availble in retail and
-                  wholesale( 6380258837,9842131905)
+                  wholesale( 8610409973,6381288110)
                 </Marquee>
               </Col>
               {/*<a href="https://wa.me/918940655143?text=Hello Sri Senthur Murugan fireworks">

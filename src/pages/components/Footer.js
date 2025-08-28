@@ -28,7 +28,7 @@ const Footer = () => {
       <div className="fixed point">
         <WhatsAppButton
           name="Hi Thennarasu Crackers"
-          phoneNumber="+91 6380258837"
+          phoneNumber="+91 8610409973"
         />
       </div>
       <a href="https://share.google/ij5I9EZMlczyginKS">
@@ -40,7 +40,7 @@ const Footer = () => {
           />
         </div>
       </a>
-      <a href="tel:+91 9842131905">
+      <a href="tel:+91 6381288110">
         <div className="fixed point4" style={{ cursor: "pointer" }}>
           <img
             src={require("../../assets/images/callicon.webp")}
@@ -98,10 +98,7 @@ const Footer = () => {
                     Address:
                     <br />
                   </span>
-                  <span>
-                    2/409/ EA3,road,Mettamali, Kumaralingapuram, Sattur, Tamil
-                    Nadu 626203
-                  </span>
+                  <span>2/628/A,Mettamalai,Sattur</span>
                 </div>
                 <div>
                   <span className="span">
@@ -109,9 +106,9 @@ const Footer = () => {
                     <br />
                   </span>
                   <span>
-                    63802 58837
+                    86104 09973
                     <br />
-                    98421 31905
+                    63812 88110
                   </span>
                 </div>
                 <div>
@@ -120,9 +117,9 @@ const Footer = () => {
                     <br />
                   </span>
                   <span>
-                    63802 58837
+                    86104 09973
                     <br />
-                    98421 31905
+                    63812 88110
                   </span>
                 </div>
                 <div>

@@ -14,7 +14,7 @@ const ContactUs = () => {
         type="website"
         siteName="thennarasucrackers.com"
         url="https://thennarasucrackers.com/contactus"
-        keywords="Contact Us | Thennarasu Crackers  "
+        keywords="Contact Us | Thennarasu Crackers"
         description="Contact for wholesale Crackers and Retail Crackers"
         revisitAfter="10 Days"
       />
@@ -34,10 +34,7 @@ const ContactUs = () => {
               <div className="box-icon">
                 <PiMapPinSimpleAreaBold size={40} color={"#000"} />
               </div>
-              <div className="regular">
-                2/409/ EA3,road,Mettamali, Kumaralingapuram, Sattur, Tamil Nadu
-                626203
-              </div>
+              <div className="regular">2/628/A,Mettamalai,Sattur</div>
             </div>
           </Col>
           <Col lg="4" className="py-3">
@@ -46,8 +43,8 @@ const ContactUs = () => {
                 <BiPhoneCall size={40} color={"#000"} />
               </div>
               <div>
-                <li>+91 6380258837</li>
-                <li>+91 9842131905</li>
+                <li>+91 8610409973</li>
+                <li>+91 6381288110</li>
               </div>
             </div>
           </Col>
